@@ -1,0 +1,35 @@
+{
+  "FilePath": "/Users/weronikapanek/Projects/AngularCSharpApp/AngularCSharpApp/AngularCSharpApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "AngularCSharpApp",
+  "Documents": [
+    {
+      "FilePath": "/Users/weronikapanek/Projects/AngularCSharpApp/AngularCSharpApp/Pages/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/weronikapanek/Projects/AngularCSharpApp/AngularCSharpApp/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/weronikapanek/Projects/AngularCSharpApp/AngularCSharpApp/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
